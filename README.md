@@ -22,5 +22,5 @@ If you encounter any issues or have any suggestions, contact me martingonn.dev@o
 
 # Downloads
 
-[![Downloads](https://img.shields.io/github/downloads/Martingonn/Racoon-MC-Modpack-Installer/total.svg)](https://github.com/Martingonn/Racoon-MC-Modpack-Installer/releases)
+[![Downloads](https://img.shields.io/github/downloads/Martingonn/Racoon-MC-Modpack-Installer/total.svg)]
 
