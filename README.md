@@ -1,5 +1,5 @@
 # Raccoon-MC-Modpack-Installer
-![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Flovepik.com%2Fimages%2Fpng-cute-pet-raccoon.html&psig=AOvVaw1KuKKNSa-56xSw6HZJOtBa&ust=1742188987906000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiTpdPtjYwDFQAAAAAdAAAAABAE)
+![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Flovepik.com%2Fimages%2Fpng-cute-pet-raccoon.html&psig=AOvVaw1KuKKNSa-56xSw6HZJOtBa&ust=1742188987906000&source=images&opi=89978449)
 
 
 # What is it?
