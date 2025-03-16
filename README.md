@@ -18,3 +18,6 @@ The project was started by Marcin Jacek Chmiel on March 16th, 2025. Right now, t
 If you encounter any issues or have any suggestions, contact me martingonn.dev@outlook.com
 
 # Downloads
+
+[![Downloads](https://img.shields.io/github/downloads/Martingonn/Racoon-MC-Modpack-Installer/total.svg)](https://github.com/Martingonn/Racoon-MC-Modpack-Installer/releases)
+
