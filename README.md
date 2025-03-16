@@ -1,6 +1,6 @@
 # Raccoon-MC-Modpack-Installer
+![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Flovepik.com%2Fimages%2Fpng-cute-pet-raccoon.html&psig=AOvVaw1KuKKNSa-56xSw6HZJOtBa&ust=1742188987906000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiTpdPtjYwDFQAAAAAdAAAAABAE)
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flovepik.com%2Fimages%2Fpng-cute-pet-raccoon.html&psig=AOvVaw1KuKKNSa-56xSw6HZJOtBa&ust=1742188987906000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiTpdPtjYwDFQAAAAAdAAAAABAE">
 
 # What is it?
 Racoon MC Modpack Installer is a very light script that installs a Minecraft modpack either via a direct link (ending with .zip) or from a .html file (that you get in the modpack folder).
